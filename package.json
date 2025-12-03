@@ -59,7 +59,7 @@
     "meta-extractor": "^2.1.0",
     "namor": "^2.0.3",
     "next": "10.2.3",
-    "next-auth": "^3.27.0",
+    "next-auth": "^4.0.1",
     "next-connect": "^0.10.2",
     "next-theme": "^0.1.5",
     "next-transpile-modules": "^8.0.0",
